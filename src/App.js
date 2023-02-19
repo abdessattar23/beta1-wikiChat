@@ -3,6 +3,8 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import ChatRoomCreationForm from "./ChatRoomCreationForm";
 import ChatRoomList from "./ChatRoomList";
 import ChatRoom from "./ChatRoom";
+import './App.css';
+
 
 function App() {
   return (
